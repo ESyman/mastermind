@@ -1,0 +1,15 @@
+(4) ["b", "c", " ", "b"]
+(4) [" ", "                     ", "r", "y"]
+VM175 pen.js:51 0 2
+VM175 pen.js:43 1 0
+testGuess @ VM175 pen.js:43
+(anonymous) @ VM175 pen.js:8
+console_runner-1df7d3399bdc1f40995a35209755dcfd8c7547da127f6469fd81e5fba982f6af.js:1 (4) ["w", "r", "y", "g"]
+console_runner-1df7d3399bdc1f40995a35209755dcfd8c7547da127f6469fd81e5fba982f6af.js:1 (4) ["r", "g", "r", "g"]
+pen.js:51 0 1
+testGuess @ pen.js:51
+(anonymous) @ pen.js:8
+pen.js:51 1 3
+testGuess @ pen.js:51
+(anonymous) @ pen.js:8
+console_runner-1df7d3399bdc1f40995a35209755dcfd8c7547da127f6469fd81e5fba982f6af.js:1 (2) ["w", "w"]
